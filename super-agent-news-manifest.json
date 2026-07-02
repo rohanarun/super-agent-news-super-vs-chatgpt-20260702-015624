@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[faq.com.tw](https://faq.com.tw/en/products/2026-06-09-openai-chatgpt-superapp-aria-agents-en/)",
+    "[en.softonic.com](https://news.google.com/rss/articles/CBMipAFBVV95cUxNWmx0N05qQ1FLUG9IcXVLZmpIdXNPaF9VV2xibDBxazY4TlRLbkFEb0FoS2x2VVBXZHVfZm1iY3pEaVVxdlhYYmNfMGVNM2FCdGdWRFhLSDdDbURyMVU2cjdLNElHMGVUVUtfSmdiN0JGdzhub0p0dGdMQTl3MHdRcXBicG5fUmh0TVR3Z1k5aUNGczVPZ2N3ME1IdTlvam1VNlMwbg)",
+    "[androidauthority.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE1sVHJoaUVFV0ZBU1dQZ3ZodTFJYmxxQnlLZjdLd3BIVXlEWGM4ZUNmU1VRV1JBV3VwVk5fMkZ2Qjk2VFRHRG8yYXRzblJnZnlwZ243VU5JZEZza3IzYWtDQzEyNnBteURvejU5UDl1SjdzUV85cGpEdWEwNVlENkE)",
+    "[gotchaa-lab.com](https://gotchaa-lab.com/blog/2026-05-07-chatgpt-isnt-an-ai-tool-difference)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvSAcsBQVVfeXFMT2hCMTdSSXE4dF9LNnMtQXVfX0E2RTBadVd3dVZxeE5mME45dEp6S00wSVlEcnctUVBOWWNTS2JqbnFQY2hKNmR2RDhBVlJCMDhoQURJY2JFdmVsOHJxQWJLUlJuUDJ2U2M1LTdnZU5IV3JhTVFtcWM0ell1Q3RaeVhsa2psTXZrU2hjbE5UOFZzTzZvVEVUV2Fyc1F4eVFmM3hKWklwNS1QcWRsWF9nOGlrc0J4cGFDT3ZTcHZsWWFyR2gxcHpTXzNIblk)"
+  ],
+  "design_plan": "rng=42; hero_math=max_width_1120_2to3lines; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=all_competitors_mentioned; button_contrast=black_on_paper_pass",
+  "generated_at": "2026-07-02T01:56:30.701706+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "ChatGPT is evolving into a powerful agentic superapp. Super is built specifically for people who want personal AI agents that actually operate computers \u2014 and get cheaper and faster over time thanks to a reusable computer-use cache. This page compares where ChatGPT shines, where its limits still are, and why Super is the sharper alternative for repeated computer-use workflows."
+}
